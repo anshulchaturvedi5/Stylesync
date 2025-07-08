@@ -34,15 +34,9 @@
 | Image Hosting| Cloudinary / Firebase           |
 | ML Models    | SVD, VITON-HD, ALIAS Generator  |
 
----
 
-## 📸 Screenshots
 
-| User Flow | Virtual Try-On | Recommendations | Designer Interface |
-|-----------|----------------|------------------|---------------------|
-| ![splash](screens/splash.png) | ![tryon](screens/tryon.png) | ![recs](screens/recommendations.png) | ![designer](screens/designer.png) |
 
----
 
-## 📁 Project Structure
+
 
