@@ -85,3 +85,9 @@ For a detailed walkthrough of our project, implementation, features, and outcome
 
 ---
 
+## 🎥 Project Video Demo
+
+▶️ **Watch the StyleSync Demo:**  
+[Click to Watch](https://github.com/anshulchaturvedi5/StyleSync/assets/DemoStyleSync.mp4)  
+*(Upload the video to GitHub Releases or YouTube and replace the link above with the actual one)*
+
